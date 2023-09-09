@@ -1,0 +1,16 @@
+-->syntax for io packages
+import java.io.*;
+-->syntax for main function
+public static void main (String[] args)
+--> syntax for print statement
+System.out.println("programming language is"+ x);
+-->user defined output
+scanner sc = newscanner(system.in)
+system.out.println("enter your name");
+string name = sc nextline();
+system.out.in("enter your age");
+Int=scnextint()
+system.out.println("enter your cgpa");
+double=scnextdouble();
+-->two words con
+
